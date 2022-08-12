@@ -14,7 +14,7 @@ Impareremo Spring Batch scrivendo tanto codice insieme e durante lo sviluppo int
 Tutorial Spring Batch in 45 mins : il tutorial per imparare Spring Batch in pochissimo tempo, con meno teoria e più pratica! 
 
 ## Vuoi seguire tutto il tutorial? Eccoti il link dei video! :) 
-https://www.youtube.com/watch?v=P6NEpBcd54I&t=375s
+https://www.youtube.com/watch?v=P6NEpBcd54I
 
 Buono studio! :)
 
